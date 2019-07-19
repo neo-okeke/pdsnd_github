@@ -15,3 +15,6 @@ washington.csv
 
 ### Credits
 Everything related to this project was provided by the Udacity Nanodegree Program Classroom Notes
+
+### Additional Change 1 to Documentation  
+This line has been added to practice making commits to add to my remote repository
