@@ -240,7 +240,7 @@ def raw_data(df):
         want_data = input("\nWould you like to view individual trip data? Enter \"Yes\" or \"No\"\n").lower()
 
         if want_data == 'yes':
-            print(df.iloc[0:x+5])
+            print(df.iloc[:x+10])
             x += 5
         else:
             break
