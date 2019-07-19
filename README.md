@@ -21,3 +21,6 @@ This line has been added to practice making commits to add to my remote reposito
 
 ### Additional Change 2 to Documentation
 Another test for merge
+
+### Additional Change 2 to Documentation
+Another test for merge
